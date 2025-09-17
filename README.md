@@ -1,7 +1,7 @@
 
 # TL;DR
 
-# SE-CV Assignment — Sharayu Rasal
+# SE-CV Assignment - Sharayu Rasal
 
 **Live:** [https://sharayu1418.pythonanywhere.com/](https://sharayu1418.pythonanywhere.com/)
 **Repo:** [https://github.com/Sharayu1418/SE-CV\_Assignment-Sharayu-Rasal](https://github.com/Sharayu1418/SE-CV_Assignment-Sharayu-Rasal)
@@ -26,7 +26,7 @@ python manage.py runserver
 * `cv/templates/cv.html` – renders sections
 * `cvsite/urls.py` & `cv/urls.py` – route `/`
 
-# SE-CV Assignment — Sharayu Rasal
+# SE-CV Assignment - Sharayu Rasal
 
 **Live URL:** [https://sharayu1418.pythonanywhere.com/](https://sharayu1418.pythonanywhere.com/)
 **GitHub Repo:** [https://github.com/Sharayu1418/SE-CV\_Assignment-Sharayu-Rasal](https://github.com/Sharayu1418/SE-CV_Assignment-Sharayu-Rasal)
