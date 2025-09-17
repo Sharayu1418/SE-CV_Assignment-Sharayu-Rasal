@@ -6,9 +6,14 @@
 **Live:** [https://sharayu1418.pythonanywhere.com/](https://sharayu1418.pythonanywhere.com/)
 **Repo:** [https://github.com/Sharayu1418/SE-CV\_Assignment-Sharayu-Rasal](https://github.com/Sharayu1418/SE-CV_Assignment-Sharayu-Rasal)
 
-**What:** Django app that renders my CV from **`data/cv_data.json`** using **`cv/templates/cv.html`**. No CV text is hard-coded; the template uses variables/loops.
+**What:** Django app that renders my CV from **`data/cv_data.json`** using **`cv/templates/cv.html`**. 
+No CV text is hard-coded. 
+The template uses variables/loops.
 
-**Why (grading):** Clear separation of concerns — data (JSON), logic (`cv/views.py`), presentation (template). Projects support optional `url`/`code` links.
+Data (JSON)
+Logic (`cv/views.py`)
+Presentation (template). 
+Projects support optional `url` links.
 
 **Run locally**
 
