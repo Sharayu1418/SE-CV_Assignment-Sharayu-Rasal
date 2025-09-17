@@ -8,7 +8,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-g18w$ubkpy7y*#98+-ygfvw*4z%cty9p161*u4k$z5fbml$p$-"
 DEBUG = True
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "https://sharayu1418.pythonanywhere.com/"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "sharayu1418.pythonanywhere.com"]
 
 # Application definition
 INSTALLED_APPS = [
