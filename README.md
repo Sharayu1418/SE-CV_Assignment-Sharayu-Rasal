@@ -2,7 +2,7 @@
 # TL;DR
 
 # SE-CV Assignment - Sharayu Rasal
-
+**Live:** https://sharayu1418.github.io/SE-CV_Assignment-Sharayu-Rasal/
 **Live:** [https://sharayu1418.pythonanywhere.com/](https://sharayu1418.pythonanywhere.com/)
 **Repo:** [https://github.com/Sharayu1418/SE-CV\_Assignment-Sharayu-Rasal](https://github.com/Sharayu1418/SE-CV_Assignment-Sharayu-Rasal)
 
