@@ -1,0 +1,107 @@
+{
+  "profile": {
+    "first_name": "Sharayu",
+    "last_name": "Rasal",
+    "headline": "Data-driven problem solver in analytics, visualization & predictive modeling",
+    "email": "srr10019@nyu.edu",
+    "phone": "+1 929 663 1867",
+    "location": "Brooklyn, NY",
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/Sharayu1418" }
+    ],
+    "summary": "Data-driven problem solver skilled in analytics, visualization, and predictive modeling, bridging technology and business for strategic impact. International experience across India & the U.S. with strong research, communication, and product management skills."
+  },
+
+  "education": [
+    {
+      "degree": "Masters of Engineering in Computer Science (GPA 3.7)",
+      "school": "New York University (Tandon)",
+      "location": "New York, NY",
+      "dates": "Sep 2024 – May 2026",
+      "bullets": [
+        "Coursework: Business Intelligence & Data Visualization, Cloud Computing for Analytics, Machine Learning & Decision Modeling, Big Data Analytics, Human-Computer Interaction, Information Security & Privacy, Software Engineering"
+      ]
+    },
+    {
+      "degree": "B.E. in Computer Science (Honors in Data Science, CGPA 8.5)",
+      "school": "Savitribai Phule Pune University",
+      "location": "Pune, India",
+      "dates": "Jul 2020 – Aug 2024",
+      "bullets": [
+        "Coursework: Business Intelligence, Data Science & Predictive Analytics, Database Management Systems, Probability & Statistics, Software Testing & QA, Software Project Management, OOP, Data Visualization with ML Models"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "title": "Technical Product Intern — Web & Marketing",
+      "company": "Oniv Beverages Pvt Ltd",
+      "location": "Mumbai, India",
+      "dates": "Oct 2023 – Feb 2024",
+      "bullets": [
+        "Initiated strategic partnership with Indobevs Brewery; led #UnitedWeDrink x #TheFirstWinemakersOfIndia event",
+        "Coordinated cross-brand marketing with Novotel Pune & Chateau Indage; improved CX via data-driven campaigns",
+        "Built SEO-optimized website (HTML/CSS/Bootstrap, SEMrush, Google Search Console); +30% organic traffic in 8 weeks"
+      ]
+    },
+    {
+      "title": "Business Intelligence Intern",
+      "company": "Posit Source Technologies Pvt Ltd",
+      "location": "Pune, India",
+      "dates": "Mar 2023 – May 2023",
+      "bullets": [
+        "Built SQL-based churn prediction (KNN, Decision Trees); boosted retention & revenue",
+        "Ran EDA & statistical tests (t-test, chi-square, regression) to segment users and optimize campaigns",
+        "Designed BI dashboards in Excel & Python (Pandas, Matplotlib) for stakeholder insights",
+        "Analyzed logistics data; proposed same-day delivery system lowering lead time by 30%"
+      ]
+    },
+    {
+      "title": "Research & Development Intern — KCTI",
+      "company": "Bharat Forge Ltd",
+      "location": "Pune, India",
+      "dates": "Jul 2023 – Nov 2023",
+      "bullets": [
+        "Optimized AI target acquisition for defense vehicles by streamlining OpenCV pipelines; cut latency by 18%",
+        "Designed & tested data transmission protocols to improve reliability of drone surveillance feeds",
+        "Collaborated with DRDO engineers & vendors to resolve bottlenecks and deliver system improvements"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "bill-ieve-it (Congress Tracker)",
+      "summary": "React + Firebase web app to track U.S. Congressional bills in real time; integrated Congress.gov API; interactive dashboards & notifications for query/monitoring of legislation.",
+"url": "https://github.com/Sharayu1418/bill-ieve-it-final"
+    },
+    {
+      "name": "The-Domestic-Help-App",
+      "summary": "Full-stack platform connecting workers with customers; implemented ETL pipeline with Firebase + SQL for real-time job management; analytics-driven rating system with SQL + Twilio SMS notifications.",
+"url": "https://github.com/Sharayu1418/The-Domestic-Help-App"
+    },
+    {
+      "name": "LoRA Fine-Tuning",
+      "summary": "Fine-tuned RoBERTa-base with Low-Rank Adaptation; 94.6% test accuracy with <1M parameters; ranked top 25% on Kaggle leaderboard.",
+"url": "https://github.com/Sharayu1418/LoRA-Fine-Tuning"
+    }
+  ],
+
+  "skills": [
+    { "category": "Business & Analytics", "items": ["Problem Structuring", "Market & User Research", "Data-Driven Decision Making", "KPI Definition", "Stakeholder Management", "Business Storytelling & Presentations"] },
+    { "category": "Data & BI Tools", "items": ["Tableau", "Power BI", "Google Analytics", "Excel Dashboards", "Decision Modeling", "SQL", "Python (Pandas/NumPy)"] },
+    { "category": "Product & Project Tools", "items": ["Agile/Scrum", "Jira", "Trello", "Slack", "Stakeholder Communication", "Product Roadmapping"] },
+    { "category": "Web & Technical", "items": ["React", "HTML/CSS/Bootstrap", "SEO (Search Console, SEMrush)", "Firebase", "Git", "Docker", "OpenCV"] },
+    { "category": "Cloud & Platforms", "items": ["AWS", "Google Cloud Platform (GCP)"] },
+    { "category": "Visualization & Design", "items": ["PowerPoint/Keynote (consulting-style decks)", "Figma", "Canva"] }
+  ],
+
+  "awards": [
+    { "name": "Core Team Member", "by": "Google Developers Students Club (GDSC)", "year": "", "details": "Led Web Dev team & technical events (300+ attendees); secured sponsorships from RedBull & GeeksforGeeks." },
+    { "name": "NYU Global Ambassador", "by": "NYU", "year": "", "details": "Represented NYU at prospective student events; supported 100+ attendees with academic & campus queries." },
+    { "name": "Ops Lead — TEDx AISSMS COE", "by": "TEDx AISSMS COE", "year": "", "details": "Acquired 32% more sponsorships; managed logistics for 200+ participants." },
+    { "name": "3rd Place — Western Regional Conclave", "by": "Institute of Engineers (India)", "year": "", "details": "Recognized for presentation on sustainable technologies." },
+    { "name": "Student Coordinator", "by": "Microsoft Students Club", "year": "", "details": "Ran game-building sessions for 200+ participants; sourced guest speakers." }
+  ]
+}
